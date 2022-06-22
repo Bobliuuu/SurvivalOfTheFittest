@@ -1,2 +1,2 @@
-# Pygame-Assignment
-Assignment submitted for Grade 10 computer studies
+# Survival Of The Fittest
+Pygame final project for Grade 10 computer studies
